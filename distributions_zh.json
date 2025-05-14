@@ -3,12 +3,12 @@
     "name": "KitKat",
     "version": "4.4",
     "apiLevel": 19,
-    "distributionPercentage": 0.003,
+    "distributionPercentage": 0.001,
     "url": "https://developer.android.com/about/versions/android-4.4.html",
     "descriptionBlocks": [
       {
         "title": "打印框架",
-        "body": "支持通用内容打印<br>图片打印<br>OEM打印服务"
+        "body": "通用内容打印<br>图像打印<br>OEM打印服务"
       },
       {
         "title": "短信服务",
@@ -20,11 +20,11 @@
       },
       {
         "title": "多媒体",
-        "body": "自适应视频播放<br>按需音频时间戳<br>Surface图像读取器<br>峰值和RMS音频测量<br>响度增强器<br>远程控制器<br>隐藏式字幕"
+        "body": "自适应视频播放<br>按需音频时间戳<br>Surface图像读取器<br>峰值与RMS音频测量<br>响度增强器<br>远程控制器<br>隐藏式字幕"
       },
       {
         "title": "动画与图形",
-        "body": "场景与过渡动画<br>动画暂停功能<br>可复用位图"
+        "body": "场景与过渡动画<br>动画暂停控制<br>可复用位图"
       },
       {
         "title": "用户内容",
@@ -32,7 +32,7 @@
       },
       {
         "title": "用户输入",
-        "body": "新增传感器类型（包括计步器）<br>批量传感器事件<br>控制器身份识别"
+        "body": "新增传感器类型（包括计步检测）<br>批量传感器事件<br>控制器身份识别"
       },
       {
         "title": "用户界面",
@@ -40,7 +40,7 @@
       },
       {
         "title": "",
-        "body": "最后更新：2024年5月1日"
+        "body": "最后更新：2025年4月1日"
       }
     ]
   },
@@ -53,7 +53,7 @@
     "descriptionBlocks": [
       {
         "title": "用户界面",
-        "body": "Material Design支持<br>最近任务中的并行文档和活动<br>WebView更新<br>屏幕截图与分享"
+        "body": "Material Design支持<br>最近任务屏中的并行文档和活动<br>WebView更新<br>屏幕捕捉与共享"
       },
       {
         "title": "通知",
@@ -65,11 +65,11 @@
       },
       {
         "title": "媒体",
-        "body": "高级相机功能API<br>音频播放控制<br>媒体浏览"
+        "body": "高级相机功能API<br>音频播放控制<br>媒体播放控制<br>媒体浏览"
       },
       {
         "title": "存储",
-        "body": "目录选择功能"
+        "body": "目录选择"
       },
       {
         "title": "无线与连接",
@@ -77,11 +77,11 @@
       },
       {
         "title": "电池优化（Project Volta）",
-        "body": "任务调度<br>电池使用开发者工具"
+        "body": "任务调度<br>电池使用开发工具"
       },
       {
-        "title": "企业及教育功能",
-        "body": "托管配置<br>设备所有者模式<br>屏幕固定"
+        "title": "企业办公与教育",
+        "body": "托管配置<br>设备所有者<br>屏幕固定"
       },
       {
         "title": "打印框架",
@@ -93,7 +93,7 @@
       },
       {
         "title": "测试与无障碍",
-        "body": "测试和无障碍改进"
+        "body": "测试与无障碍改进"
       },
       {
         "title": "输入法",
@@ -105,7 +105,7 @@
       },
       {
         "title": "",
-        "body": "最后更新：2024年5月1日"
+        "body": "最后更新：2025年4月1日"
       }
     ]
   },
@@ -113,7 +113,7 @@
     "name": "Lollipop",
     "version": "5.1",
     "apiLevel": 22,
-    "distributionPercentage": 0.008,
+    "distributionPercentage": 0.005,
     "url": "https://developer.android.com/about/versions/android-5.1.html",
     "descriptionBlocks": [
       {
@@ -126,7 +126,7 @@
       },
       {
         "title": "",
-        "body": "最后更新：2024年5月1日"
+        "body": "最后更新：2025年4月1日"
       }
     ]
   },
@@ -134,7 +134,7 @@
     "name": "Marshmallow",
     "version": "6",
     "apiLevel": 23,
-    "distributionPercentage": 0.014,
+    "distributionPercentage": 0.007,
     "url": "https://developer.android.com/about/versions/marshmallow/android-6.0.html",
     "descriptionBlocks": [
       {
@@ -147,11 +147,11 @@
       },
       {
         "title": "多媒体",
-        "body": "4K显示模式<br>MIDI支持<br>数字音频采集与播放对象创建<br>音频与输入设备关联API<br>音频设备列表<br>更新的视频处理API<br>手电筒API<br>Camera2 API重处理<br>ImageWriter对象与ImageReader类更新"
+        "body": "4K显示模式<br>MIDI支持<br>创建数字音频捕获与播放对象<br>关联音频与输入设备的API<br>所有音频设备列表<br>更新的视频处理API<br>手电筒API<br>Camera2 API重处理<br>更新的ImageWriter对象与ImageReader类"
       },
       {
         "title": "用户输入",
-        "body": "语音交互<br>辅助API<br>蓝牙手写笔支持"
+        "body": "语音交互<br>辅助API<br>蓝牙触控笔支持"
       },
       {
         "title": "用户界面",
@@ -167,7 +167,7 @@
       },
       {
         "title": "",
-        "body": "最后更新：2024年5月1日"
+        "body": "最后更新：2025年4月1日"
       }
     ]
   },
@@ -175,7 +175,7 @@
     "name": "Nougat",
     "version": "7",
     "apiLevel": 24,
-    "distributionPercentage": 0.01,
+    "distributionPercentage": 0.006,
     "url": "https://developer.android.com/about/versions/nougat/android-7.0.html",
     "descriptionBlocks": [
       {
@@ -188,15 +188,15 @@
       },
       {
         "title": "电池续航",
-        "body": "移动中休眠模式<br>Project Svelte后台优化<br>SurfaceView改进"
+        "body": "移动中Doze模式<br>Project Svelte后台优化<br>SurfaceView改进"
       },
       {
         "title": "无线与连接",
-        "body": "数据节省程序<br>号码拦截<br>来电筛选"
+        "body": "数据节省模式<br>号码拦截<br>来电筛查"
       },
       {
         "title": "图形",
-        "body": "Vulkan API支持"
+        "body": "Vulkan API"
       },
       {
         "title": "系统",
@@ -204,7 +204,7 @@
       },
       {
         "title": "企业功能",
-        "body": "工作资料安全验证<br>关闭工作模式<br>始终开启VPN<br>自定义配置"
+        "body": "工作资料安全挑战<br>关闭工作模式<br>始终开启VPN<br>自定义配置"
       },
       {
         "title": "无障碍",
@@ -224,7 +224,7 @@
       },
       {
         "title": "",
-        "body": "最后更新：2024年5月1日"
+        "body": "最后更新：2025年4月1日"
       }
     ]
   },
@@ -232,12 +232,12 @@
     "name": "Nougat",
     "version": "7.1",
     "apiLevel": 25,
-    "distributionPercentage": 0.01,
+    "distributionPercentage": 0.006,
     "url": "https://developer.android.com/about/versions/nougat/android-7.1.html",
     "descriptionBlocks": [
       {
         "title": "系统",
-        "body": "增强的动态壁纸元数据<br>存储管理器Intent<br>演示用户提示"
+        "body": "增强的动态壁纸元数据<br>存储管理器意图<br>演示用户提示"
       },
       {
         "title": "虚拟现实",
@@ -249,11 +249,11 @@
       },
       {
         "title": "用户输入",
-        "body": "图像键盘支持<br>新增专业表情符号"
+        "body": "图像键盘支持<br>新版专业表情符号"
       },
       {
         "title": "无线与连接",
-        "body": "运营商和通话应用的API"
+        "body": "运营商与通话应用API"
       },
       {
         "title": "穿戴设备",
@@ -261,7 +261,7 @@
       },
       {
         "title": "",
-        "body": "最后更新：2024年5月1日"
+        "body": "最后更新：2025年4月1日"
       }
     ]
   },
@@ -269,7 +269,7 @@
     "name": "Oreo",
     "version": "8",
     "apiLevel": 26,
-    "distributionPercentage": 0.015,
+    "distributionPercentage": 0.01,
     "url": "https://developer.android.com/about/versions/oreo/android-8.0",
     "descriptionBlocks": [
       {
@@ -282,7 +282,7 @@
       },
       {
         "title": "媒体",
-        "body": "VolumeShaper<br>音频焦点增强<br>媒体指标<br>MediaPlayer和MediaRecorder改进<br>改进的媒体文件访问"
+        "body": "音量塑形器<br>音频焦点增强<br>媒体指标<br>MediaPlayer与MediaRecorder改进<br>改进的媒体文件访问"
       },
       {
         "title": "无线与连接",
@@ -290,15 +290,15 @@
       },
       {
         "title": "安全与隐私",
-        "body": "新权限<br>新的账户访问和发现API"
+        "body": "新权限<br>新的账户访问与发现API"
       },
       {
         "title": "运行时与工具",
-        "body": "平台优化<br>更新的Java语言支持<br>ICU4J Android框架API更新"
+        "body": "平台优化<br>更新的Java语言支持<br>更新的ICU4J Android框架API"
       },
       {
         "title": "",
-        "body": "最后更新：2024年5月1日"
+        "body": "最后更新：2025年4月1日"
       }
     ]
   },
@@ -306,7 +306,7 @@
     "name": "Oreo",
     "version": "8.1",
     "apiLevel": 27,
-    "distributionPercentage": 0.043,
+    "distributionPercentage": 0.03,
     "url": "https://developer.android.com/about/versions/oreo/android-8.1",
     "descriptionBlocks": [
       {
@@ -315,7 +315,7 @@
       },
       {
         "title": "用户界面",
-        "body": "通知改进<br>EditText更新<br>WallpaperColors API"
+        "body": "通知改进<br>EditText更新<br>壁纸颜色API"
       },
       {
         "title": "媒体",
@@ -323,11 +323,11 @@
       },
       {
         "title": "安全与隐私",
-        "body": "指纹识别更新<br>加密功能更新"
+        "body": "指纹识别更新<br>加密更新"
       },
       {
         "title": "",
-        "body": "最后更新：2024年5月1日"
+        "body": "最后更新：2025年4月1日"
       }
     ]
   },
@@ -335,7 +335,7 @@
     "name": "Pie",
     "version": "9",
     "apiLevel": 28,
-    "distributionPercentage": 0.084,
+    "distributionPercentage": 0.058,
     "url": "https://developer.android.com/about/versions/pie/android-9.0",
     "descriptionBlocks": [
       {
@@ -344,15 +344,15 @@
       },
       {
         "title": "用户界面",
-        "body": "通知改进<br>文本支持增强<br>ImageDecoder和新动画类"
+        "body": "通知改进<br>文本支持增强<br>ImageDecoder与新的动画类"
       },
       {
         "title": "媒体",
-        "body": "HDR VP9视频<br>HEIF图像压缩<br>媒体API改进"
+        "body": "HDR VP9视频<br>HEIF图像压缩<br>增强的媒体API"
       },
       {
         "title": "安全与隐私",
-        "body": "Android受保护确认<br>生物识别认证对话框<br>硬件安全模块<br>安全密钥导入<br>客户端加密备份"
+        "body": "Android保护确认<br>生物识别认证对话框<br>硬件安全模块<br>安全密钥导入<br>客户端加密备份"
       },
       {
         "title": "无障碍",
@@ -360,7 +360,7 @@
       },
       {
         "title": "",
-        "body": "最后更新：2024年5月1日"
+        "body": "最后更新：2025年4月1日"
       }
     ]
   },
@@ -368,7 +368,7 @@
     "name": "Q",
     "version": "10",
     "apiLevel": 29,
-    "distributionPercentage": 0.136,
+    "distributionPercentage": 0.102,
     "url": "https://developer.android.com/about/versions/10",
     "descriptionBlocks": [
       {
@@ -389,7 +389,7 @@
       },
       {
         "title": "",
-        "body": "最后更新：2024年5月1日"
+        "body": "最后更新：2025年4月1日"
       }
     ]
   },
@@ -397,7 +397,7 @@
     "name": "R",
     "version": "11",
     "apiLevel": 30,
-    "distributionPercentage": 0.19,
+    "distributionPercentage": 0.159,
     "url": "https://developer.android.com/about/versions/11",
     "descriptionBlocks": [
       {
@@ -410,11 +410,11 @@
       },
       {
         "title": "安全与隐私",
-        "body": "分区存储强制执行<br>一次性权限<br>权限自动重置<br>后台位置访问限制<br>软件包可见性<br>前台服务限制<br>安全共享大型数据集"
+        "body": "分区存储强制执行<br>一次性权限<br>权限自动重置<br>后台位置访问<br>软件包可见性<br>前台服务<br>大数据集安全共享"
       },
       {
         "title": "",
-        "body": "最后更新：2024年5月1日"
+        "body": "最后更新：2025年4月1日"
       }
     ]
   },
@@ -422,7 +422,7 @@
     "name": "S",
     "version": "12",
     "apiLevel": 31,
-    "distributionPercentage": 0.147,
+    "distributionPercentage": 0.128,
     "url": "https://developer.android.com/about/versions/12",
     "descriptionBlocks": [
       {
@@ -431,19 +431,19 @@
       },
       {
         "title": "行为变更",
-        "body": "性能分级<br>拉伸过度滚动<br>应用启动画面<br>受限的应用待机分组<br>改进的刷新率切换<br>Passpoint更新"
+        "body": "性能分级<br>弹性过度滚动<br>应用启动画面<br>受限应用待机分组<br>改进的刷新率切换<br>Passpoint更新"
       },
       {
         "title": "安全与隐私",
-        "body": "应用休眠<br>附近设备权限<br>大致位置<br>蓝牙权限<br>权限组查询<br>剪贴板访问通知<br>软件包可见性权限"
+        "body": "应用休眠<br>附近设备权限<br>大致位置<br>蓝牙权限<br>权限组查询<br>剪贴板访问通知<br>权限包可见性"
       },
       {
-        "title": "大屏支持（12L）",
-        "body": "系统UI优化<br>应用任务栏<br>拖拽进入分屏模式<br>快速应用切换<br>兼容模式的视觉和稳定性改进<br>Jetpack WindowManager的活动嵌入"
+        "title": "大屏支持(12L)",
+        "body": "系统UI优化<br>应用任务栏<br>拖拽进入分屏模式<br>快速应用切换<br>兼容模式的视觉与稳定性改进<br>Jetpack WindowManager的活动嵌入"
       },
       {
         "title": "",
-        "body": "最后更新：2024年5月1日"
+        "body": "最后更新：2025年4月1日"
       }
     ]
   },
@@ -451,16 +451,16 @@
     "name": "T",
     "version": "13",
     "apiLevel": 33,
-    "distributionPercentage": 0.209,
+    "distributionPercentage": 0.168,
     "url": "https://developer.android.com/about/versions/13",
     "descriptionBlocks": [
       {
         "title": "新功能",
-        "body": "平板和大屏支持<br>可编程着色器<br>彩色矢量字体<br>预测性返回手势<br>蓝牙LE音频<br>启动画面效率改进<br>ART优化"
+        "body": "平板与大屏支持<br>可编程着色器<br>彩色矢量字体<br>预测性返回手势<br>蓝牙LE音频<br>启动屏效率改进<br>ART优化"
       },
       {
         "title": "行为变更",
-        "body": "OpenJDK 11更新<br>电池资源利用率<br>从PlaybackState派生的媒体控制<br>广告ID需要权限<br>更新的非SDK限制"
+        "body": "OpenJDK 11更新<br>电池资源利用率<br>基于PlaybackState的媒体控制<br>广告ID需要权限<br>更新的非SDK限制"
       },
       {
         "title": "安全与隐私",
@@ -468,7 +468,7 @@
       },
       {
         "title": "",
-        "body": "最后更新：2024年5月1日"
+        "body": "最后更新：2025年4月1日"
       }
     ]
   },
@@ -476,24 +476,73 @@
     "name": "U",
     "version": "14",
     "apiLevel": 34,
-    "distributionPercentage": 0.13,
+    "distributionPercentage": 0.274,
     "url": "https://developer.android.com/about/versions/14",
     "descriptionBlocks": [
       {
         "title": "新功能",
-        "body": "图像的Ultra HDR支持<br>相机扩展中的变焦、对焦、预览等功能<br>无损USB音频<br>健康连接<br>添加自定义操作<br>支持顶点和片段着色器的自定义网格"
+        "body": "图像的Ultra HDR支持<br>相机扩展中的变焦/对焦/预览等功能<br>无损USB音频<br>健康连接<br>添加自定义操作<br>支持顶点和片段着色器的自定义网格"
       },
       {
         "title": "行为变更",
-        "body": "需要前台服务类型<br>强制执行BLUETOOTH_CONNECT权限<br>JobScheduler强化回调和网络行为<br>应用只能终止自己的后台进程<br>默认拒绝精确闹钟设置<br>数据安全信息更显眼<br>最低可安装目标API级别要求"
+        "body": "必须声明前台服务类型<br>强制执行BLUETOOTH_CONNECT权限<br>JobScheduler强化回调和网络行为<br>应用只能终止自己的后台进程<br>默认拒绝精确闹钟设置<br>数据安全信息更显眼<br>最低可安装目标API级别"
       },
       {
         "title": "安全与隐私",
-        "body": "凭证管理器<br>应用商店改进<br>检测用户截屏行为<br>安全的全屏Intent通知<br>隐式和待处理Intent的限制<br>更安全的动态代码加载<br>后台启动Activity的限制<br>需要用户同意的MediaProjection"
+        "body": "凭证管理器<br>应用商店改进<br>检测设备截图行为<br>安全全屏Intent通知<br>隐式和待定Intent限制<br>更安全的动态代码加载<br>后台启动Activity限制<br>MediaProjection需要用户逐次同意"
       },
       {
         "title": "",
-        "body": "最后更新：2024年5月1日"
+        "body": "最后更新：2025年4月1日"
+      }
+    ]
+  },
+  {
+    "name": "V",
+    "version": "15",
+    "apiLevel": 35,
+    "distributionPercentage": 0.044,
+    "url": "https://developer.android.com/about/versions/15",
+    "descriptionBlocks": [
+      {
+        "title": "相机与媒体",
+        "body": "低光增强<br>应用内相机控制<br>HDR动态范围控制<br>响度控制<br>虚拟MIDI 2.0设备<br>更高效的AV1软件解码"
+      },
+      {
+        "title": "连接",
+        "body": "卫星通信支持<br>更流畅的NFC体验<br>钱包角色"
+      },
+      {
+        "title": "开发者生产力与工具",
+        "body": "OpenJDK 17更新<br>PDF改进<br>自动语言切换优化<br>改进的OpenType可变字体API<br>细粒度换行控制<br>应用归档"
+      },
+      {
+        "title": "图形",
+        "body": "现代化Android GPU访问<br>Canvas改进"
+      },
+      {
+        "title": "大屏幕与形态",
+        "body": "改进的大屏多任务处理<br>封面屏幕支持"
+      },
+      {
+        "title": "性能与电池",
+        "body": "ApplicationStartInfo API<br>详细的应用大小信息<br>应用管理的性能分析<br>SQLite数据库改进<br>Android动态性能框架更新"
+      },
+      {
+        "title": "隐私",
+        "body": "屏幕录制检测<br>扩展的IntentFilter能力<br>私人空间<br>查询最近用户选择的照片访问权限<br>Android隐私沙盒<br>健康连接<br>部分屏幕共享"
+      },
+      {
+        "title": "安全",
+        "body": "凭证管理器与自动填充集成<br>生物识别提示的单点登录集成<br>端到端加密的密钥管理<br>内容URI的权限检查"
+      },
+      {
+        "title": "用户体验与系统UI",
+        "body": "通过Generated Previews API生成更丰富的小部件预览<br>画中画改进<br>改进的勿扰规则<br>为通知通道设置振动效果<br>媒体投影状态栏提示与自动停止"
+      },
+      {
+        "title": "",
+        "body": "最后更新：2025年4月1日"
       }
     ]
   }
